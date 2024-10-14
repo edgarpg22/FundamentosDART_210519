@@ -24,6 +24,7 @@ Proyecto de clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |14 |Mixins |11 |✅Finalizada | 
 |15 |Futures |7 |✅Finalizada |
 |16 |Async y Await |Pendiente |⭐Activa |
+|17 |Try Catch On Finally |Pendiente |⭐Activa |
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
