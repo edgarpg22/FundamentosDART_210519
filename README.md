@@ -23,10 +23,10 @@ Proyecto de clase para la Unidad 1 de la Asignatura de Desarrollo Móvil Integra
 |13 |Clases Abstractas |11 |✅Finalizada | 
 |14 |Mixins |11 |✅Finalizada | 
 |15 |Futures |7 |✅Finalizada |
-|16 |Async Await |Pendiente |⭐Activa |
-|17 |Try Catch On Finally |Pendiente |⭐Activa |
-|18 |Streams |Pendiente |⭐Activa |
-|19 |Streams Awaits |Pendiente |⭐Activa |
+|16 |Async Await |5 |⭐Activa |
+|17 |Try Catch On Finally |6 |⭐Activa |
+|18 |Streams |6 |⭐Activa |
+|19 |Streams 4 |Pendiente |⭐Activa |
 
 ### LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
